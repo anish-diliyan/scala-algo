@@ -1,2 +1,3 @@
 # scala-algo
-Here I am practising scala interview questions
+Here I am practicing scala interview questions
+Reference: https://github.com/rockthejvm/scala-problems-interviews
